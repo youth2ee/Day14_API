@@ -5,7 +5,7 @@ public class Thread2 extends Thread{ //thread 클래스 상속
 	@Override
 	public void run() {
 		this.test2();	
-	}
+	}//run
 
 	public void test2() {
 
@@ -19,6 +19,6 @@ public class Thread2 extends Thread{ //thread 클래스 상속
 		}
 
 
-	}
+	}//test2
 
 }
